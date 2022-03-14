@@ -1,0 +1,43 @@
+[PROJECT]
+Target=Pic16f877 ve LDR ile Röle Kontrol.hex
+Processor_Text=PIC16F877
+CCSVersion=5.049
+Compiler=PCM
+[Target Data]
+FileList=Pic16f877 ve LDR ile Röle Kontrol.c
+[Pic16f877 ve LDR ile Röle Kontrol.c]
+Type=4
+[mru-list]
+1=Pic16f877 ve LDR ile Röle Kontrol.c
+
+[defines]
+buildcount=6
+
+[Opened Files]
+1=Pic16f877 ve LDR ile Röle Kontrol.c
+t1=59
+Count=1
+
+[ProjectLog]
+Days=2
+D1=13-03-2022
+D1_L=5
+D1_L1=[81586]Stopped Editing.
+D1_L2=[82808]Started Editing.
+D1_L3=[83110]Stopped Editing.
+D1_L4=[83243]Started Editing.
+D1_L5=[84508]Stopped Editing.
+TotalEdit=23
+TotalDebug=0
+D2=14-03-2022
+D2_E=23
+D2_D=0
+D2_L=5
+D2_L1=[1181]Project Closed.
+D2_L2=[3991]Project Opened.
+D2_L3=[7025]Project Closed.
+D2_L4=[80541]Project Opened.
+D2_L5=[81700]Project Closed.
+[Units]
+Count=1
+1=Pic16f877 ve LDR ile Röle Kontrol (main)
